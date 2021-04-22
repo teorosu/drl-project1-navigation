@@ -63,6 +63,10 @@ The next idea to improve the agent was the dueling network. I changed the model 
                                     |- advantage (37 nodes)-----------|
 ```
 
+### Learning plot
+
+![](learning_graph.png)
+
 ## Conclusion / Future work
 
 While the steps above improve the agent, a more programatic and organised approach to tweaking hyperparameters and the model would be useful. Most of the tweaking was manual tweaking. 
